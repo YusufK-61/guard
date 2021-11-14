@@ -1,5 +1,2 @@
-# Çalınması Yasaktır
+Bana ait değildir istediğiniz gibi kullanın
 
-- Çalan Kodır Dil Anlamışşsen?
-
-- tamam
